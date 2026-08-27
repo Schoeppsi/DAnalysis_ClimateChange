@@ -1,0 +1,28 @@
+co2PerCapita(all3):	https://ourworldindata.org/co2-and-greenhouse-gas-emissions#explore-data-on-co2-and-greenhouse-gas-emissions
+			15.09.2025, 12:00
+			- 
+			- 
+
+population	: 	https://ourworldindata.org/grapher/population#explore-the-data
+			15.09.2025, 13:00
+
+meanTemp_world	:	https://ourworldindata.org/explorers/climate-change?Metric=Temperature+anomaly&Long-run+series=false&country=ATA~Gulkana+Glacier~Lemon+Creek+Glacier~OWID_NAM~South+Cascade+Glacier~Wolverine+Glacier~Hawaii~Arctic+Ocean~OWID_WRL
+			21.09.2025, 17:00
+			- The difference in average land-sea surface temperature compared to the 1861-1890 mean, in degrees Celsius.
+
+meanTemp_perCountry:	https://ourworldindata.org/grapher/annual-temperature-anomalies?time=latest
+			23.09.2025, 13:00
+
+disasterCount	:	https://ourworldindata.org/grapher/number-of-natural-disaster-events?country=Flood~Extreme+weather~Earthquake
+			23.09.2025, 13:00
+			- Note that this largely reflects increases in datareporting, and should not be used to assess the total number of events.
+			- use count of earthquakes to get feeling of increase of report numbers, since earthquakes are independent of global warming
+			- 
+
+____________________________________________________________________________________________________________________________________________________________
+
+- Extreme Wetterereignisse ( > 30°C, < 0°C ) -> werden öfter/seltener?
+- Temperaturtrends über Jahrzehnte (wordl/continents/countries)
+- CO₂ und Temperatur vergleichen
+	- co2 (z. B. Mauna Loa-Daten) und globale Mitteltemperaturen
+	- Berechne die Korrelation und visualisiere beide Zeitreihen.
